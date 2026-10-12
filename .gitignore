@@ -46,3 +46,6 @@ htmlcov/
 # Local data files
 *.json
 !tasks_sample.json
+
+# Nested task repositories
+codomax-task2/

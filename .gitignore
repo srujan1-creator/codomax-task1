@@ -50,3 +50,4 @@ htmlcov/
 # Nested task repositories
 codomax-task2/
 codomax-task3/
+*.ipynb
